@@ -11,5 +11,4 @@ Update inventory in records.json
 
 About:  
 Name: HATIM MURTUZA JHALODWALA  
-Email: hmjhalod@gmail.com  
-Contact: +91 9328402162  
+Email: hmjhalod@gmail.com   
